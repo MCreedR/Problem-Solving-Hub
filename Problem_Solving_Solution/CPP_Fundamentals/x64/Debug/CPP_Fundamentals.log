@@ -1,3 +1,1 @@
-﻿  BubbleSort.cpp
-D:\IT_Practice\Problem-Solving-Hub\Problem_Solving_Solution\CPP_Fundamentals\BubbleSort.cpp(7,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  CPP_Fundamentals.vcxproj -> D:\IT_Practice\Problem-Solving-Hub\Problem_Solving_Solution\x64\Debug\CPP_Fundamentals.exe
+﻿  CPP_Fundamentals.vcxproj -> D:\IT_Practice\Problem-Solving-Hub\Problem_Solving_Solution\x64\Debug\CPP_Fundamentals.exe

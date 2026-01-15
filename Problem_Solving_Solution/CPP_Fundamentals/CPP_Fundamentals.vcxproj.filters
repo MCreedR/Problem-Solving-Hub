@@ -27,5 +27,8 @@
     <ClCompile Include="BubbleSort.cpp">
       <Filter>Algorithms</Filter>
     </ClCompile>
+    <ClCompile Include="StackImplementation.cpp">
+      <Filter>DataStructures</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
