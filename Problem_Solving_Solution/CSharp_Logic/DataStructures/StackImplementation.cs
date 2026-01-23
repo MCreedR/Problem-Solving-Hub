@@ -16,7 +16,7 @@ namespace CSharp_Logic.DataStructures
             history.Push("ProfilePage");
             history.Push("SettingsPage"); // Last in
 
-            Console.WriteLine($"Current page (Top): {history.Peek()}"); // Peek shows the top eithout removing
+            Console.WriteLine($"Current page (Top): {history.Peek()}"); // Peek shows the top without removing
 
             // Removing elements (Pop)
             string lastAction = history.Pop(); // Removes SettingsPage

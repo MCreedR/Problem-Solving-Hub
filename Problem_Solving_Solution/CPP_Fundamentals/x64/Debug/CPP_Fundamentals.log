@@ -1,1 +1,3 @@
-﻿  CPP_Fundamentals.vcxproj -> D:\IT_Practice\Problem-Solving-Hub\Problem_Solving_Solution\x64\Debug\CPP_Fundamentals.exe
+﻿  BinarySearch.cpp
+D:\IT_Practice\Problem-Solving-Hub\Problem_Solving_Solution\CPP_Fundamentals\BinarySearch.cpp(7,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CPP_Fundamentals.vcxproj -> D:\IT_Practice\Problem-Solving-Hub\Problem_Solving_Solution\x64\Debug\CPP_Fundamentals.exe

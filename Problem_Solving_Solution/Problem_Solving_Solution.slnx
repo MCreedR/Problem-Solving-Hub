@@ -4,6 +4,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CPP_Fundamentals/CPP_Fundamentals.vcxproj" />
+  <Project Path="CPP_Fundamentals/CPP_Fundamentals.vcxproj" Id="cd75f64d-90f8-4989-ac43-097fc34cf905" />
   <Project Path="CSharp_Logic/CSharp_Logic.csproj" />
 </Solution>
